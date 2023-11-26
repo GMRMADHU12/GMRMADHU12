@@ -1,5 +1,5 @@
 # 💫 Hi there 👋 I am Gadde Madhukar!:
-🔭 I’m currently working on JavaScript,DSA<br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with Data Structures <br>🌱 I’m currently learning ReactJS<br>⚡ I believe in "Nothing worth having comes easy".<br>🌱Learner-Planner-Analyser-Applier-Achiever I'm obsessed with problem solving and this will always drive me forward in the quest of exploring my passion.
+💻I am an undergraduate Computer Science Student having an Endeavor to Learn New Skills and Acquire Proficiency.<br>🔭 I’m currently working on JavaScript,DSA<br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with Data Structures <br>🌱 I’m currently learning ReactJS<br>⚡ I believe in "Nothing worth having comes easy".<br>🌱Learner-Planner-Analyser-Applier-Achiever I'm obsessed with problem solving and this will always drive me forward in the quest of exploring my passion.
 
 
 ## 🌐 Socials:
